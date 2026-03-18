@@ -1,19 +1,9 @@
 
-## 📌 Структура README (важно понять)
 
-Обычно README состоит из:
-
-1. Название проекта
-2. Описание
-3. Функции
-4. Установка
-5. Использование
-6. Скриншоты (опционально)
-7. Технологии
+# 🖥️ Tkinter GUI App 
 
 
-
-# 🖥️ Tkinter GUI App
+<img width="676" height="339" alt="image" src="https://github.com/user-attachments/assets/b60e8374-43a7-4f10-bfe7-396ae9467caa" />
 
 
 Простой графический интерфейс (GUI) на Python с использованием библиотеки Tkinter.  
